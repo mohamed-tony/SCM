@@ -1,0 +1,10 @@
+//I am mechatronics Engieer
+
+
+
+#include<stdio.h>
+
+int main()
+{
+	printf("sdfghjkl");
+}
